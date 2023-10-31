@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil 👑
 
-Olá meu nome de usuário é Yrneh você pode me chamar assim sem problemas, sou estudante do Brasil e gosto de futebol e de música 🎵
+Olá meu nome de usuário é IN HEAVEN você pode me chamar assim sem problemas, sou estudante do Brasil e gosto de futebol e de música 🎵
 
 - Estou estudando [Alura](https://www.alura.com.br) atualmente.
 - Utilizo esse espaço para organização dos meus projetos.
